@@ -42,4 +42,3 @@ The report provides clear insights into sales performance, customer behavior, an
 
 ---
 
-✉️ *If you find this useful, feel free to fork the repository or suggest improvements.*  
